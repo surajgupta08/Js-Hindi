@@ -27,7 +27,37 @@ let someNumber = 33
 
 let stringSomeNumber = String(someNumber)
 
-console.log(typeof stringSomeNumber);
-console.log(stringSomeNumber);
+// console.log(typeof stringSomeNumber);
+// console.log(stringSomeNumber);
+
+
+
+
+
+//        Operations
+
+
+let str1 = "suraj"
+let str2 = "kumar"
+let str3 = str1 + str2
+// console.log(str3);
+
+// console.log(1+2);
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log(1+2+"3"+4);
+// console.log("1"+2+3+4);
+
+// console.log(true);
+// console.log(+true);
+
+
+let gameCounter = 100;
+--gameCounter
+console.log(gameCounter);
+
+
+
+
 
 
